@@ -1,4 +1,5 @@
-val a ="c:\\documents and settings\\Administrator\\My documents\\sid\\sud.sml";
+(* Sudoku Solver using row-search, column-search and box-search *)
+(* Copyright 2008 Siddharth Eswaran *)
 
 open List;
 
